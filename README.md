@@ -1,5 +1,4 @@
-### Hi there 👋 
-### I'm [AVISHEK](http://github.com/avishekchy45).
+### Hi there 👋 I'm [AVISHEK](http://github.com/avishekchy45)
 
 <!--
 **avishekchy45/avishekchy45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,12 +20,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Avishek 
 - ⚡ Fun fact: 🥴
 
+![](https://img.shields.io/badge/EDITOR-VSCODE-success)
+![](https://img.shields.io/badge/OS-Windows/Linux-success)
+
 ![Avishek's github stats](https://github-readme-stats.vercel.app/api?username=avishekchy45&show_icons=true&theme=blue-green)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishekchy45&theme=blue-green&layout=compact)<hr>
 
-[![Avishek's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13200287&theme=dark)](https://stackoverflow.com/users/13200287/avishek-chowdhury)<hr>
-
-**Find me on:**
+**Find me on :**
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/avishekchy45)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/avishekchy45/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13200287)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13200287)<hr>
+[![Avishek's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13200287&theme=dark)](https://stackoverflow.com/users/13200287/avishek-chowdhury)

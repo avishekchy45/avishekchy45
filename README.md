@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [AVISHEK](http://github.com/avishekchy45)
-<br><hr>
+<hr>
 
 <!--
 **avishekchy45/avishekchy45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br><hr>
 
 # Find me on  :  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='45'>](https://github.com/avishekchy45) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='45'>](https://www.linkedin.com/in/avishekchy45/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='45'>](https://stackoverflow.com/users/13200287)
-<hr>
+<br>
 
 [![Avishek's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13200287&theme=dark)](https://stackoverflow.com/users/13200287/avishek-chowdhury)
 <br><hr>

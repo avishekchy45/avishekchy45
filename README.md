@@ -28,11 +28,10 @@ Here are some ideas to get you started:
 ![Avishek's github stats](https://github-readme-stats.vercel.app/api?username=avishekchy45&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishekchy45&theme=blue-green&layout=compact)<hr>
 
-<p align="center">
-  <b>Find me on</b>
-</p>
-
+## Find me on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/avishekchy45)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/avishekchy45/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13200287)<hr>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13200287)
+<br>
+
 [![Avishek's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13200287&theme=dark)](https://stackoverflow.com/users/13200287/avishek-chowdhury)

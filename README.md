@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishekchy45&theme=blue-green&layout=compact)
 <br><hr>
 
-# Find me on  :  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='45'>](https://github.com/avishekchy45) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='45'>](https://www.linkedin.com/in/avishekchy45/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='45'>](https://stackoverflow.com/users/13200287)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='45'>](https://github.com/avishekchy45) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='45'>](https://www.linkedin.com/in/avishekchy45/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='45'>](https://stackoverflow.com/users/13200287) 
 <br>
 
 [![Avishek's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13200287&theme=dark)](https://stackoverflow.com/users/13200287/avishek-chowdhury)

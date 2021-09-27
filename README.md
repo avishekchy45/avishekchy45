@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/avishekchy45)](https://badges.pufler.dev)
 <br><hr>
 
-- 🔭 I’m currently working on my personal PHP Porjects 🤪
+- 🔭 I’m currently working on my personal practise projects 🤪
 - 🌱 I’m currently learning JAVASCRIPT 🙄
 - 👯 I’m looking to collaborate on any volunteering project 🙂
 - 🤔 I’m looking for help with JS 😑
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/OS-Windows/Linux-success)
 ![](https://img.shields.io/badge/EDITOR-VSCODE-success)
-![](https://img.shields.io/badge/LANGUAGES-C,C++,Python,JS-success)
+![](https://img.shields.io/badge/LANGUAGES-C,C++,Python,PHP,JS-success)
 <br><hr>
 
 ![Avishek's github stats](https://github-readme-stats.vercel.app/api?username=avishekchy45&show_icons=true&theme=blue-green)

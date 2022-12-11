@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/avishekchy45)
 
 <h1 align="center">Hi there 👋🏼, I'm <code>AVISHEK</code></h1>
-<h3 align="center">A programmer who code the world</h3>
+<h3 align="center">A programmer who code the world 👨🏼‍💻</h3>
 <p align="center">
 <!--   <a href="https://komarev.com/ghpvc" target="_blank"><img src="https://komarev.com/ghpvc/?username=avishekchy45&style=for-the-badge" alt="github" title='Profile Views'></a> -->
   <a href='https://linktr.ee/avishekchy45' target="_blank"><img src='https://img.shields.io/badge/Connect with Me-yellow?logo=linktree&style=for-the-badge' alt='linktree' title='All Social Links'></a>
@@ -26,9 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Plane or Bus 😆
 - 😄 Pronouns: He/Him 👦🏼
 - ⚡ Fun fact: 🥴
-<hr>
 
-<h3 align="left">OS:</h3>
+## OS
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
@@ -36,14 +35,14 @@ Here are some ideas to get you started:
 [![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)](https://www.centos.org/)
 [![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 
-<h3 align="left">Editors:</h3>
+## Editors
 
 [![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)]()
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
 [![Apache_Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE)]()
 
-<h3 align="left">Programming Languages:</h3>
+## Programming Languages
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
@@ -53,7 +52,7 @@ Here are some ideas to get you started:
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
-<h3 align="left">Web Development:</h3>
+## Web Development
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
@@ -63,30 +62,30 @@ Here are some ideas to get you started:
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 [![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 
-<h3 align="left">Database Development:</h3>
+## Database Development
 
 [![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-<h3 align="left">Game Development:</h3>
+## Game Development
 
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
 
-<!-- <h3 align="left">Mobile App Development:</h3> -->
+<!-- ## Mobile App Development -->
 
 
-<h3 align="left">AI/ML:</h3>
+## AI/ML
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-4A66FF?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-B6D3D1?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 
-<h3 align="left">Devops:</h3>
+## Devops
 
 [![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
 
-<h3 align="left">Other Tools & Technologies:</h3>
+## Other Tools & Technologies
 
 [![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()

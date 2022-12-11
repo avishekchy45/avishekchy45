@@ -1,7 +1,7 @@
 <div id="Top"></div>
 
 <!-- ![Last_Update](https://img.shields.io/badge/Last_Update-12_December_2022-success) -->
-![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?logo=github&label=Last%20Update)
+![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?logo=github&label=Last%20update)
 ![Profile views](https://gpvc.arturio.dev/avishekchy45)
 <h1 align="center">Hi there 👋🏼, I'm <code>AVISHEK</code></h1>
 <h3 align="center">A programmer who code the world 👨🏼‍💻</h3>
@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 [![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+<!-- [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]() -->
 
 # Database Development
 

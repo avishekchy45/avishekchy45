@@ -1,8 +1,8 @@
 <div id="Top"></div>
 
-![Last_Update](https://img.shields.io/badge/Last_Update-12_December_2022-success)
+<!-- ![Last_Update](https://img.shields.io/badge/Last_Update-12_December_2022-success) -->
+![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?logo=github&label=Last%20Update)
 ![Profile views](https://gpvc.arturio.dev/avishekchy45)
-
 <h1 align="center">Hi there 👋🏼, I'm <code>AVISHEK</code></h1>
 <h3 align="center">A programmer who code the world 👨🏼‍💻</h3>
 <p align="center">

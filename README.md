@@ -1,13 +1,18 @@
-<h1 align="center">Hi there 👋, I'm <code>AVISHEK</code></h1>
+<div id="Top"></div>
+
+![Last_Update](https://img.shields.io/badge/Last_Update-12_December_2022-success)
+<h1 align="center">Hi there 👋🏼, I'm <code>AVISHEK</code></h1>
 <h3 align="center">A programmer who code the world</h3>
 <p align="center">
-  <a href="https://komarev.com/ghpvc" target="_blank"><img src="https://komarev.com/ghpvc/?username=avishekchy45&style=for-the-badge" alt="github" title='Profile views'></a>
+  <a href="https://komarev.com/ghpvc" target="_blank"><img src="https://komarev.com/ghpvc/?username=avishekchy45&style=for-the-badge" alt="github" title='Profile Views'></a>
   <!-- ![Profile views](https://gpvc.arturio.dev/avishekchy45) -->
-  <a href='https://linktr.ee/avishekchy45' target="_blank"><img src='https://img.shields.io/badge/Connect with Me-yellow?style=for-the-badge' alt='linktree' title='All Social Links'></a>
+  <a href='https://linktr.ee/avishekchy45' target="_blank"><img src='https://img.shields.io/badge/Connect with Me-yellow?logo=linktree&style=for-the-badge' alt='linktree' title='All Social Links'></a>
   <!-- [![Linktree](https://img.shields.io/badge/Connect_with_Me-yellow?style=for-the-badge)](https://linktr.ee/avishekchy45) -->
-  <a href='https://www.stopstalk.com/user/profile/avishekchy45' target="_blank"><img src='https://img.shields.io/badge/StopStalk-red?style=for-the-badge' alt='stopstalk' title='All CP Links'></a>
+  <a href='https://www.stopstalk.com/user/profile/avishekchy45' target="_blank"><img src='https://img.shields.io/badge/StopStalk-green?logo=stopstalk&style=for-the-badge' alt='stopstalk' title='All CP Links'></a>
+</p>
+<p align="center">
   <a href="https://twitter.com/avishekchy45" target="_blank"><img src="https://img.shields.io/twitter/follow/avishekchy45?logo=twitter&style=for-the-badge" alt="twitter"></a>
-  <a href="https://youtube.com/@avishekchowdhury" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCiRj8ZpmU8PBiFbh2qClBnw?logo=youtube&style=for-the-badge&label=Youtube @avishekchowdhury&logoColor=red" alt="youtube"></a>
+  <a href="https://youtube.com/@avishekchowdhury" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCiRj8ZpmU8PBiFbh2qClBnw?logo=youtube&style=for-the-badge&logoColor=red" alt="youtube"></a>
 </p>
 <hr>
 
@@ -26,12 +31,80 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 🥴
 <hr>
 
-![OS](https://img.shields.io/badge/OS-Windows/Linux-success)
-![EDITOR](https://img.shields.io/badge/EDITOR-VSCODE-success)
-![LANGUAGES](https://img.shields.io/badge/LANGUAGES-C++,_PHP,_Python-success)
-<br><hr>
+<h3 align="left">OS:</h3>
+
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)](https://www.centos.org/)
+[![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+
+<h3 align="left">Editors:</h3>
+
+[![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)]()
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
+[![Apache_Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE)]()
+
+<h3 align="left">Programming Languages:</h3>
+
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](Link)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+
+<h3 align="left">Web Development:</h3>
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
+[![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+
+<h3 align="left">Database Development:</h3>
+
+[![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+<h3 align="left">Game Development:</h3>
+
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
+
+<!-- <h3 align="left">Mobile App Development:</h3> -->
+
+
+<h3 align="left">AI/ML:</h3>
+
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+[![OpenCV](https://img.shields.io/badge/OpenCV-4A66FF?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit_learn-B6D3D1?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+
+<h3 align="left">Devops:</h3>
+
+[![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
+
+<h3 align="left">Other Tools & Technologies:</h3>
+
+[![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
+[![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)]()
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)]()
+[![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman)](https://www.postman.com/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-2F74A8?style=for-the-badge&logo=matlab&logoColor=white)](https://www.mathworks.com/)
+[![Material_UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)]()
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+<!-- [![Name]()]() -->
+<hr>
+
+<p align="right">(<a href="#Top">Back to Top</a>)</p>
 
 <p align="center"><a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api?username=avishekchy45&show_icons=true&theme=blue-green' alt='GitHub Stats' title='GitHub Stats'></a></p>
 <p align="center"><a href='https://git.io/streak-stats'><img src='https://github-readme-streak-stats.herokuapp.com?user=avishekchy45&theme=blue-green&mode=weekly' alt='GitHub Streak' title='GitHub Streak'></a></p>
 <p align="center"><a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=avishekchy45&theme=blue-green&layout=compact' alt='Top Languages' title='Top Languages'></a></p>
-<br><hr>
+<hr>

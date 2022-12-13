@@ -1,8 +1,5 @@
 <div id="Top"></div>
 
-<!-- ![Last_Update](https://img.shields.io/badge/Last_Update-12_December_2022-success) -->
-![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?logo=github&label=Last%20update)
-![Profile views](https://gpvc.arturio.dev/avishekchy45)
 <h1 align="center">Hi there 👋🏼, I'm <code>AVISHEK</code></h1>
 <h3 align="center">A programmer who code the world 👨🏼‍💻</h3>
 <p align="center">
@@ -11,12 +8,17 @@
   <!-- [![Linktree](https://img.shields.io/badge/Connect_with_Me-yellow?style=for-the-badge)](https://linktr.ee/avishekchy45) -->
   <a href='https://www.stopstalk.com/user/profile/avishekchy45' target="_blank"><img src='https://img.shields.io/badge/StopStalk-green?logo=stopstalk&style=for-the-badge' alt='stopstalk' title='All CP Links'></a>
 </p>
-<hr>
 
 <!--
 **avishekchy45/avishekchy45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+
+# About me
+
+As a computer science student, I always search for an opportunity to make a significant impact on people's lives by solving someone's problems in this huge world using science & technology. I try to solve any problem using the most reliable and easiest way. Playing with data structures & algorithms is the nicest thing I can do.
+
+I’ve learned how to manage my work in a collaborative environment through my previous academic projects. Even if the tasks I am assigned are complex, I try my best to maintain focus and proceed to the output to reach the goal of the task.
 
 - 🔭 I’m currently working on my personal practise projects 🤪
 - 🌱 I’m currently learning PYTHON 🙄
@@ -84,34 +86,36 @@ Here are some ideas to get you started:
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
 
-# Version Control
-
-[![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
-# Design
-
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
-<!-- [![Material_UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)]() -->
-
 # Other Tools & Technologies
 
+[![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![Postman](https://img.shields.io/badge/Postman-00FFFF?style=for-the-badge&logo=postman)](https://www.postman.com/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-2F74A8?style=for-the-badge&logo=matlab&logoColor=white)](https://www.mathworks.com/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
 [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)](https://www.overleaf.com/)
+<!-- [![Material_UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)]() -->
 <!-- [![Name]()]() -->
+
+<p align="center">
+  <a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api?username=avishekchy45&show_icons=true&theme=blue-green' alt='GitHub Stats' title='GitHub Stats'></a>
+  <a href='https://git.io/streak-stats'><img src='https://github-readme-streak-stats.herokuapp.com?user=avishekchy45&theme=blue-green&mode=weekly' alt='GitHub Streak' title='GitHub Streak'></a>
+  <a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=avishekchy45&theme=blue-green&layout=compact' alt='Top Languages' title='Top Languages'></a>
+</p>
 <hr>
 
-<p align="center"><a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api?username=avishekchy45&show_icons=true&theme=blue-green' alt='GitHub Stats' title='GitHub Stats'></a></p>
-<p align="center"><a href='https://git.io/streak-stats'><img src='https://github-readme-streak-stats.herokuapp.com?user=avishekchy45&theme=blue-green&mode=weekly' alt='GitHub Streak' title='GitHub Streak'></a></p>
-<p align="center"><a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=avishekchy45&theme=blue-green&layout=compact' alt='Top Languages' title='Top Languages'></a></p>
-<hr>
+<h1 align="center">
+  Thanks for your valuable time...
+  <p align="right">
+  <a href='#Top'><img src='https://img.shields.io/badge/Back to Top-orange?style=flat' alt='Back to Top' title='Back to Top'></a>
+  </p>
+</h1>
 
+<!-- ![Last_Update](https://img.shields.io/badge/Last_Update-12_December_2022-success) -->
+![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?logo=github&label=Profile%20last%20update)
+![Profile views](https://gpvc.arturio.dev/avishekchy45)
 [![Twitter](https://img.shields.io/twitter/follow/avishekchy45?logo=twitter&style=social)](https://twitter.com/avishekchy45)
 [![Youtube](https://img.shields.io/youtube/channel/views/UCiRj8ZpmU8PBiFbh2qClBnw?logo=youtube&style=social&label=Subscribe%20@avishekchowdhury)](https://youtube.com/@avishekchowdhury)
 
-<p align="right">
-  <a href='#Top'><img src='https://img.shields.io/badge/Back to Top-orange?style=flat' alt='Back to Top' title='Back to Top'></a>
-</p>
 <div id="Bottom"></div>

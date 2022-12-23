@@ -97,11 +97,13 @@ I’ve learned how to manage my work in a collaborative environment through my p
 [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)](https://www.overleaf.com/)
 <!-- [![Material_UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)]() -->
 <!-- [![Name]()]() -->
+<br>
 
 <p align="center">
   <a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api?username=avishekchy45&show_icons=true&theme=blue-green' alt='GitHub Stats' title='GitHub Stats'></a>
   <a href='https://git.io/streak-stats'><img src='https://github-readme-streak-stats.herokuapp.com?user=avishekchy45&theme=blue-green&mode=weekly' alt='GitHub Streak' title='GitHub Streak'></a>
   <a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=avishekchy45&theme=blue-green&layout=compact' alt='Top Languages' title='Top Languages'></a>
+<!--   <a href="https://stardev.io/developers/avishekchy45"><img src="https://stardev.io/developers/avishekchy45/badge/languages/country.svg" alt="Check out avishekchy45&apos;s profile on stardev.io" title='Stardev badge'/></a> -->
 </p>
 <hr>
 

@@ -1,5 +1,7 @@
 <div id="Top"></div>
 
+![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?logo=github&style=for-the-badge&label=last%20update)<br>
+
 <h1 align="center">Hi there 👋🏼, I'm <code>AVISHEK</code></h1>
 <h3 align="center">A programmer who code the world 👨🏼‍💻</h3>
 <p align="center">
@@ -115,7 +117,6 @@ I’ve learned how to manage my work in a collaborative environment through my p
 </h1>
 
 <!-- ![Last_Update](https://img.shields.io/badge/Last_Update-12_December_2022-success) -->
-![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?logo=github&label=Profile%20last%20update)
 ![Profile views](https://gpvc.arturio.dev/avishekchy45)
 [![Twitter](https://img.shields.io/twitter/follow/avishekchy45?logo=twitter&style=social)](https://twitter.com/avishekchy45)
 [![Youtube](https://img.shields.io/youtube/channel/views/UCiRj8ZpmU8PBiFbh2qClBnw?logo=youtube&style=social&label=Subscribe%20@avishekchowdhury)](https://youtube.com/@avishekchowdhury)

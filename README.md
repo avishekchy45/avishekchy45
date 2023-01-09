@@ -28,7 +28,6 @@ I’ve learned how to manage my work in a collaborative environment through my p
 - 🤔 I’m looking for help with JS 😑
 - 💬 Ask me about anything 😶
 - 📫 How to reach me: Plane or Bus 😆
-- 😄 Pronouns: He/Him 👦🏼
 - ⚡ Fun fact: 🥴
 
 # OS
@@ -42,9 +41,9 @@ I’ve learned how to manage my work in a collaborative environment through my p
 # Editors
 
 [![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![Apache_Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE)]()
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)]()
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
-[![Apache_Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE)]()
 
 # Programming Languages
 
@@ -53,16 +52,16 @@ I’ve learned how to manage my work in a collaborative environment through my p
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](Link)
-<!-- [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]() -->
-<!-- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() -->
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
 # Web Development
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
+[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 <!-- [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]() -->
 
 # Database Development
@@ -78,9 +77,9 @@ I’ve learned how to manage my work in a collaborative environment through my p
 
 # AI/ML
 
+[![scikit-learn](https://img.shields.io/badge/scikit_learn-B6D3D1?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-4A66FF?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit_learn-B6D3D1?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 
 # Devops
 

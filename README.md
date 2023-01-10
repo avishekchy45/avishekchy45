@@ -3,7 +3,7 @@
 ![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?logo=github&style=for-the-badge&label=last%20update)<br>
 
 <h1 align="center">Hi there 👋🏼, I'm <code>AVISHEK</code></h1>
-<h3 align="center">A programmer who code the world 👨🏼‍💻</h3>
+<h3 align="center">A programmer who code for the world 👨🏼‍💻</h3>
 <p align="center">
 <!--   <a href="https://komarev.com/ghpvc" target="_blank"><img src="https://komarev.com/ghpvc/?username=avishekchy45&style=for-the-badge" alt="github" title='Profile Views'></a> -->
   <a href='https://linktr.ee/avishekchy45' target="_blank"><img src='https://img.shields.io/badge/Connect with Me-yellow?logo=linktree&style=for-the-badge' alt='linktree' title='All Social Links'></a>
@@ -32,71 +32,72 @@ I’ve learned how to manage my work in a collaborative environment through my p
 
 # OS
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)](https://www.centos.org/)
-[![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)](https://www.linux.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
+[![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS)](https://www.centos.org/)
+[![Kali_Linux](https://img.shields.io/badge/Kali_Linux-27394F?style=for-the-badge&logo=kali-linux)](https://www.kali.org/)
 
 # Editors
 
-[![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
-[![Apache_Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE)]()
-[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)]()
-[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
+[![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-203367?style=for-the-badge&logo=visual%20studio%20code)](https://code.visualstudio.com/)
+[![Notepad++](https://img.shields.io/badge/Notepad++-1F2023.svg?style=for-the-badge&logo=notepad%2B%2B)](https://notepad-plus-plus.org/)
+[![Colab](https://img.shields.io/badge/Colab-525252?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/)
+[![Apache_Netbeans](https://img.shields.io/badge/apache%20netbeans-9D073B?style=for-the-badge&logo=apache%20netbeans%20IDE)](https://netbeans.apache.org/)
 
 # Programming Languages
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](Link)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B)]()
+[![Python](https://img.shields.io/badge/Python-FFE66D?style=for-the-badge&logo=python)](https://www.python.org/)
+[![PHP](https://img.shields.io/badge/PHP-2D2D2D?style=for-the-badge&logo=php)](https://www.php.net/)
+[![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle)](https://www.java.com/en/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-2F302E?style=for-the-badge&logo=javascript)]()
 
 # Web Development
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
-[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-<!-- [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]() -->
+[![HTML5](https://img.shields.io/badge/HTML5-00A4E9?style=for-the-badge&logo=html5)](https://www.w3.org/html)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)](https://www.w3.org/Style/CSS/)
+[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-290648?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
+[![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-12192B?style=for-the-badge&logo=tailwind-css)]()
+[![Laravel](https://img.shields.io/badge/laravel-22191A.svg?style=for-the-badge&logo=laravel)](https://laravel.com/)
+<!-- [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)]() -->
 
 # Database Development
 
-[![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MYSQL](https://img.shields.io/badge/MySQL-E38C00?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 
 # Game Development
 
-[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity)]()
 
 <!-- # Mobile App Development -->
 
 
 # AI/ML
 
-[![scikit-learn](https://img.shields.io/badge/scikit_learn-B6D3D1?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
-[![OpenCV](https://img.shields.io/badge/OpenCV-4A66FF?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit_learn-B6D3D1?style=for-the-badge&logo=scikitlearn)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-3A485E?style=for-the-badge&logo=tensorflow)]()
+[![OpenCV](https://img.shields.io/badge/OpenCV-4A66FF?style=for-the-badge&logo=opencv)](https://opencv.org/)
 
 # Devops
 
-[![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
+[![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws)]()
+[![Netlify](https://img.shields.io/badge/Netlify-0A2022?style=for-the-badge&logo=netlify)]()
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku)]()
 
 # Other Tools & Technologies
 
-[![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![GIT](https://img.shields.io/badge/Git-202124?style=for-the-badge&logo=git)](https://git-scm.com/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-2F74A8?style=for-the-badge&logo=wolframmathematica)](https://www.mathworks.com/)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)](https://jquery.com/)
 [![Postman](https://img.shields.io/badge/Postman-00FFFF?style=for-the-badge&logo=postman)](https://www.postman.com/)
-[![MATLAB](https://img.shields.io/badge/MATLAB-2F74A8?style=for-the-badge&logo=matlab&logoColor=white)](https://www.mathworks.com/)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
-[![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)](https://www.overleaf.com/)
-<!-- [![Material_UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)]() -->
+[![Arduino](https://img.shields.io/badge/Arduino-E9665F?style=for-the-badge&logo=Arduino)](https://www.arduino.cc/)
+[![Canva](https://img.shields.io/badge/Canva-7325E1.svg?&style=for-the-badge&logo=Canva)]()
+[![Overleaf](https://img.shields.io/badge/Overleaf-74736A?style=for-the-badge&logo=Overleaf)](https://www.overleaf.com/)
+<!-- [![Material_UI](https://img.shields.io/badge/Material_UI-4C2E9E?style=for-the-badge&logo=mui)]() -->
 <!-- [![Name]()]() -->
 <br>
 

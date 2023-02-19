@@ -30,30 +30,15 @@ I’ve learned how to manage my work in a collaborative environment through my p
 - 📫 How to reach me: Plane or Bus 😆
 - ⚡ Fun fact: 🥴
 
-# OS
-
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/)
-[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)](https://www.linux.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
-[![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS)](https://www.centos.org/)
-[![Kali_Linux](https://img.shields.io/badge/Kali_Linux-27394F?style=for-the-badge&logo=kali-linux)](https://www.kali.org/)
-
-# Editors
-
-[![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-203367?style=for-the-badge&logo=visual%20studio%20code)](https://code.visualstudio.com/)
-[![Notepad++](https://img.shields.io/badge/Notepad++-1F2023.svg?style=for-the-badge&logo=notepad%2B%2B)](https://notepad-plus-plus.org/)
-[![Colab](https://img.shields.io/badge/Colab-525252?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/)
-[![Apache_Netbeans](https://img.shields.io/badge/apache%20netbeans-9D073B?style=for-the-badge&logo=apache%20netbeans%20IDE)](https://netbeans.apache.org/)
-
 # Programming Languages
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B)]()
 [![Python](https://img.shields.io/badge/Python-FFE66D?style=for-the-badge&logo=python)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/PHP-2D2D2D?style=for-the-badge&logo=php)](https://www.php.net/)
-[![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle)](https://www.java.com/en/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-2F302E?style=for-the-badge&logo=javascript)]()
+<!-- [![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)]() -->
+<!-- [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle)](https://www.java.com/en/) -->
 
 # Web Development
 
@@ -84,9 +69,24 @@ I’ve learned how to manage my work in a collaborative environment through my p
 
 # Devops
 
-[![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws)]()
+[![Amazon_AWS](https://img.shields.io/badge/Amazon_WEB_SERVICES-232F3E?style=for-the-badge&logo=amazon-aws)]()
 [![Netlify](https://img.shields.io/badge/Netlify-0A2022?style=for-the-badge&logo=netlify)]()
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku)]()
+
+# OS
+
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)](https://www.linux.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
+[![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS)](https://www.centos.org/)
+[![Kali_Linux](https://img.shields.io/badge/Kali_Linux-27394F?style=for-the-badge&logo=kali-linux)](https://www.kali.org/)
+
+# Editors
+
+[![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-203367?style=for-the-badge&logo=visual%20studio%20code)](https://code.visualstudio.com/)
+[![Notepad++](https://img.shields.io/badge/Notepad++-1F2023.svg?style=for-the-badge&logo=notepad%2B%2B)](https://notepad-plus-plus.org/)
+[![Colab](https://img.shields.io/badge/Colab-525252?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/)
+[![Apache_Netbeans](https://img.shields.io/badge/apache%20netbeans-9D073B?style=for-the-badge&logo=apache%20netbeans%20IDE)](https://netbeans.apache.org/)
 
 # Other Tools & Technologies
 
@@ -102,11 +102,9 @@ I’ve learned how to manage my work in a collaborative environment through my p
 <br>
 
 <p align="center">
-  <a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=avishekchy45&theme=blue-green&layout=compact' alt='Top Languages' title='Top Languages'></a>
-</p>
-<p align="center">
   <a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api?username=avishekchy45&show_icons=true&theme=blue-green' alt='GitHub Stats' title='GitHub Stats'></a>
   <a href='https://git.io/streak-stats'><img src='https://github-readme-streak-stats.herokuapp.com?user=avishekchy45&theme=blue-green&mode=weekly' alt='GitHub Streak' title='GitHub Streak'></a>
+  <a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=avishekchy45&theme=blue-green&layout=compact' alt='Top Languages' title='Top Languages'></a>
 <!--   <a href="https://stardev.io/developers/avishekchy45"><img src="https://stardev.io/developers/avishekchy45/badge/languages/country.svg" alt="Check out avishekchy45&apos;s profile on stardev.io" title='Stardev badge'/></a> -->
 </p>
 <hr>

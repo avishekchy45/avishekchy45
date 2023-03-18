@@ -3,7 +3,7 @@
 ![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?logo=github&style=for-the-badge&label=last%20update)<br>
 
 <h1 align="center">Hi there 👋🏼, I'm <code>AVISHEK</code></h1>
-<h3 align="center">A programmer who code for the world 👨🏼‍💻</h3>
+<h3 align="center">Another programmer who codes for a better world 👨🏼‍💻</h3>
 <p align="center">
 <!--   <a href="https://komarev.com/ghpvc" target="_blank"><img src="https://komarev.com/ghpvc/?username=avishekchy45&style=for-the-badge" alt="github" title='Profile Views'></a> -->
   <a href='https://linktr.ee/avishekchy45' target="_blank"><img src='https://img.shields.io/badge/Connect with Me-yellow?logo=linktree&style=for-the-badge' alt='linktree' title='All Social Links'></a>
@@ -73,7 +73,7 @@ I’ve learned how to manage my work in a collaborative environment through my p
 [![Netlify](https://img.shields.io/badge/Netlify-0A2022?style=for-the-badge&logo=netlify)]()
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku)]()
 
-# OS
+# Operating Systems 
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/)
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)](https://www.linux.org/)
@@ -103,10 +103,14 @@ I’ve learned how to manage my work in a collaborative environment through my p
 
 <p align="center">
   <a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api?username=avishekchy45&show_icons=true&theme=blue-green' alt='GitHub Stats' title='GitHub Stats'></a>
-  <a href='https://git.io/streak-stats'><img src='https://github-readme-streak-stats.herokuapp.com?user=avishekchy45&theme=blue-green&mode=weekly' alt='GitHub Streak' title='GitHub Streak'></a>
-  <a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=avishekchy45&theme=blue-green&layout=compact' alt='Top Languages' title='Top Languages'></a>
-<!--   <a href="https://stardev.io/developers/avishekchy45"><img src="https://stardev.io/developers/avishekchy45/badge/languages/country.svg" alt="Check out avishekchy45&apos;s profile on stardev.io" title='Stardev badge'/></a> -->
 </p>
+<p align="center">
+  <a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=avishekchy45&theme=blue-green&layout=compact' alt='Top Languages' title='Top Languages'></a>
+</p>
+<p align="center">
+  <a href='https://git.io/streak-stats'><img src='https://github-readme-streak-stats.herokuapp.com?user=avishekchy45&theme=blue-green&mode=weekly' alt='GitHub Streak' title='GitHub Streak'></a>
+</p>
+<!--   <a href="https://stardev.io/developers/avishekchy45"><img src="https://stardev.io/developers/avishekchy45/badge/languages/country.svg" alt="Check out avishekchy45&apos;s profile on stardev.io" title='Stardev badge'/></a> -->
 <hr>
 
 <h1 align="center">

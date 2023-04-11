@@ -112,6 +112,8 @@ I’ve learned how to manage my work in a collaborative environment through my p
 <!--   <a href="https://stardev.io/developers/avishekchy45"><img src="https://stardev.io/developers/avishekchy45/badge/languages/country.svg" alt="Check out avishekchy45&apos;s profile on stardev.io" title='Stardev badge'/></a> -->
 <hr>
 
+[![An image of @avishekchy45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avishekchy45)](https://holopin.io/@avishekchy45)
+
 <h1 align="center">
   Thanks for your valuable time...
   <p align="right">

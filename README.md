@@ -61,10 +61,12 @@ I’ve learned how to manage my work in a collaborative environment through my p
 
 # AI/ML
 
-[![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-B6D3D1?style=for-the-badge&logo=scikitlearn)](https://scikit-learn.org/)
+[![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)](https://keras.io/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-3A485E?style=for-the-badge&logo=tensorflow)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-4A66FF?style=for-the-badge&logo=opencv)](https://opencv.org/)
+[![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
+[![pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
 
 # Devops
 

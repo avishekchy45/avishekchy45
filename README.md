@@ -21,12 +21,12 @@ As a computer science student, I always search for an opportunity to make a sign
 
 I’ve learned how to manage my work in a collaborative environment through my previous academic projects. Even if the tasks I am assigned are complex, I try my best to maintain focus and proceed to the output to reach the goal of the task.
 
-- 🔭 I’m currently working on my personal practise projects 🤪
+- 🔭 I’m currently working on my personal practice projects 🤪
 - 🌱 I’m currently learning PYTHON 🙄
 - 👯 I’m looking to collaborate on any volunteering project 🙂
 - 🤔 I’m looking for help with JS 😑
 - 💬 Ask me about anything 😶
-- 📫 How to reach me: Plane or Bus 😆
+- 📫 How to reach me: [Plane or Bus](mailto:avishekchy45@gmail.com) 😆
 - ⚡ Fun fact: 🥴
 
 # Programming Languages
@@ -46,7 +46,7 @@ I’ve learned how to manage my work in a collaborative environment through my p
 [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-290648?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 [![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-12192B?style=for-the-badge&logo=tailwind-css)]()
 [![Laravel](https://img.shields.io/badge/laravel-22191A.svg?style=for-the-badge&logo=laravel)](https://laravel.com/)
-<!-- [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)]() -->
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
 
 # Database Development
 
@@ -54,12 +54,12 @@ I’ve learned how to manage my work in a collaborative environment through my p
 
 # Game Development
 
-[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity)]()
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity)](https://unity.com/)
 
 <!-- # Mobile App Development -->
 
 
-# AI/ML
+# AI / ML
 
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-B6D3D1?style=for-the-badge&logo=scikitlearn)](https://scikit-learn.org/)
 [![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)](https://keras.io/)
@@ -68,7 +68,7 @@ I’ve learned how to manage my work in a collaborative environment through my p
 [![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
 [![pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
 
-# Devops
+# DevOps
 
 [![Amazon_AWS](https://img.shields.io/badge/Amazon_WEB_SERVICES-232F3E?style=for-the-badge&logo=amazon-aws)]()
 [![Netlify](https://img.shields.io/badge/Netlify-0A2022?style=for-the-badge&logo=netlify)]()
@@ -82,7 +82,7 @@ I’ve learned how to manage my work in a collaborative environment through my p
 [![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS)](https://www.centos.org/)
 [![Kali_Linux](https://img.shields.io/badge/Kali_Linux-27394F?style=for-the-badge&logo=kali-linux)](https://www.kali.org/)
 
-# Editors
+# IDE / Editors
 
 [![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-203367?style=for-the-badge&logo=visual%20studio%20code)](https://code.visualstudio.com/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-1F2023.svg?style=for-the-badge&logo=notepad%2B%2B)](https://notepad-plus-plus.org/)

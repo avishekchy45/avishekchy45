@@ -29,7 +29,7 @@ I’ve learned how to manage my work in a collaborative environment through my p
 - 📫 How to reach me: [Plane or Bus](mailto:avishekchy45@gmail.com) 😆
 - ⚡ Fun fact: 🥴
 
-# Programming Languages
+## Programming Languages
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B)]()
@@ -39,7 +39,7 @@ I’ve learned how to manage my work in a collaborative environment through my p
 <!-- [![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)]() -->
 <!-- [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle)](https://www.java.com/en/) -->
 
-# Web Development
+## Web Development
 
 [![HTML5](https://img.shields.io/badge/HTML5-00A4E9?style=for-the-badge&logo=html5)](https://www.w3.org/html)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)](https://www.w3.org/Style/CSS/)
@@ -48,33 +48,33 @@ I’ve learned how to manage my work in a collaborative environment through my p
 [![Laravel](https://img.shields.io/badge/laravel-22191A.svg?style=for-the-badge&logo=laravel)](https://laravel.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
 
-# Database Development
+## Database Development
 
 [![MYSQL](https://img.shields.io/badge/MySQL-E38C00?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 
-# Game Development
+## Game Development
 
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity)](https://unity.com/)
 
-<!-- # Mobile App Development -->
+<!-- ## Mobile App Development -->
 
 
-# AI / ML
+## AI / ML
 
+[![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
+[![pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-B6D3D1?style=for-the-badge&logo=scikitlearn)](https://scikit-learn.org/)
 [![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)](https://keras.io/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-3A485E?style=for-the-badge&logo=tensorflow)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-4A66FF?style=for-the-badge&logo=opencv)](https://opencv.org/)
-[![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
-[![pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
 
-# DevOps
+## DevOps
 
 [![Amazon_AWS](https://img.shields.io/badge/Amazon_WEB_SERVICES-232F3E?style=for-the-badge&logo=amazon-aws)]()
 [![Netlify](https://img.shields.io/badge/Netlify-0A2022?style=for-the-badge&logo=netlify)]()
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku)]()
 
-# Operating Systems 
+## Operating Systems 
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/)
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)](https://www.linux.org/)
@@ -82,14 +82,14 @@ I’ve learned how to manage my work in a collaborative environment through my p
 [![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS)](https://www.centos.org/)
 [![Kali_Linux](https://img.shields.io/badge/Kali_Linux-27394F?style=for-the-badge&logo=kali-linux)](https://www.kali.org/)
 
-# IDE / Editors
+## IDE / Editors
 
 [![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-203367?style=for-the-badge&logo=visual%20studio%20code)](https://code.visualstudio.com/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-1F2023.svg?style=for-the-badge&logo=notepad%2B%2B)](https://notepad-plus-plus.org/)
 [![Colab](https://img.shields.io/badge/Colab-525252?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/)
 [![Apache_Netbeans](https://img.shields.io/badge/apache%20netbeans-9D073B?style=for-the-badge&logo=apache%20netbeans%20IDE)](https://netbeans.apache.org/)
 
-# Other Tools & Technologies
+## Other Tools & Technologies
 
 [![GIT](https://img.shields.io/badge/Git-202124?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-2F74A8?style=for-the-badge&logo=wolframmathematica)](https://www.mathworks.com/)

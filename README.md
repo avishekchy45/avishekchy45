@@ -91,10 +91,10 @@ I’ve learned how to manage my work in a collaborative environment through my p
 
 ## Other Tools & Technologies
 
-[![GIT](https://img.shields.io/badge/Git-202124?style=for-the-badge&logo=git)](https://git-scm.com/)
-[![MATLAB](https://img.shields.io/badge/MATLAB-2F74A8?style=for-the-badge&logo=wolframmathematica)](https://www.mathworks.com/)
+<!-- [![GIT](https://img.shields.io/badge/Git-202124?style=for-the-badge&logo=git)](https://git-scm.com/) -->
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)](https://jquery.com/)
 [![Postman](https://img.shields.io/badge/Postman-00FFFF?style=for-the-badge&logo=postman)](https://www.postman.com/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-2F74A8?style=for-the-badge&logo=wolframmathematica)](https://www.mathworks.com/)
 [![Arduino](https://img.shields.io/badge/Arduino-E9665F?style=for-the-badge&logo=Arduino)](https://www.arduino.cc/)
 [![Canva](https://img.shields.io/badge/Canva-7325E1.svg?&style=for-the-badge&logo=Canva)]()
 [![Overleaf](https://img.shields.io/badge/Overleaf-74736A?style=for-the-badge&logo=Overleaf)](https://www.overleaf.com/)

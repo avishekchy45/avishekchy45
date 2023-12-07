@@ -59,6 +59,7 @@ I’ve learned how to manage my work in a collaborative environment through my p
 <!-- ## Mobile App Development -->
 
 
+
 ## AI / ML
 
 [![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
@@ -67,6 +68,8 @@ I’ve learned how to manage my work in a collaborative environment through my p
 [![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)](https://keras.io/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-3A485E?style=for-the-badge&logo=tensorflow)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-4A66FF?style=for-the-badge&logo=opencv)](https://opencv.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-65BAEA?style=for-the-badge&logo=Plotly)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=opensea)](https://seaborn.pydata.org/)
 
 ## DevOps
 

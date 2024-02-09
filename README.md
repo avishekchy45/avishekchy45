@@ -47,6 +47,9 @@ I’ve learned how to manage my work in a collaborative environment through my p
 [![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-12192B?style=for-the-badge&logo=tailwind-css)]()
 [![Laravel](https://img.shields.io/badge/laravel-22191A.svg?style=for-the-badge&logo=laravel)](https://laravel.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)](https://jquery.com/)
+[![Postman](https://img.shields.io/badge/Postman-00FFFF?style=for-the-badge&logo=postman)](https://www.postman.com/)
+[![DataTables](https://img.shields.io/badge/DataTables-2D6EBF?style=for-the-badge&logo=datacamp)](https://datatables.net/)
 
 ## Database Development
 
@@ -64,10 +67,10 @@ I’ve learned how to manage my work in a collaborative environment through my p
 
 [![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
 [![pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4A66FF?style=for-the-badge&logo=opencv)](https://opencv.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-B6D3D1?style=for-the-badge&logo=scikitlearn)](https://scikit-learn.org/)
 [![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)](https://keras.io/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-3A485E?style=for-the-badge&logo=tensorflow)]()
-[![OpenCV](https://img.shields.io/badge/OpenCV-4A66FF?style=for-the-badge&logo=opencv)](https://opencv.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-65BAEA?style=for-the-badge&logo=Plotly)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=opensea)](https://seaborn.pydata.org/)
 
@@ -95,8 +98,6 @@ I’ve learned how to manage my work in a collaborative environment through my p
 ## Other Tools & Technologies
 
 <!-- [![GIT](https://img.shields.io/badge/Git-202124?style=for-the-badge&logo=git)](https://git-scm.com/) -->
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)](https://jquery.com/)
-[![Postman](https://img.shields.io/badge/Postman-00FFFF?style=for-the-badge&logo=postman)](https://www.postman.com/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-2F74A8?style=for-the-badge&logo=wolframmathematica)](https://www.mathworks.com/)
 [![Arduino](https://img.shields.io/badge/Arduino-E9665F?style=for-the-badge&logo=Arduino)](https://www.arduino.cc/)
 [![Canva](https://img.shields.io/badge/Canva-7325E1.svg?&style=for-the-badge&logo=Canva)]()

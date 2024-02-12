@@ -48,6 +48,7 @@ I’ve learned how to manage my work in a collaborative environment through my p
 [![Laravel](https://img.shields.io/badge/laravel-22191A.svg?style=for-the-badge&logo=laravel)](https://laravel.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)](https://jquery.com/)
+[![Animate_CSS](https://img.shields.io/badge/Animate.CSS-4672FE?style=for-the-badge&logo=css3)](https://animate.style/)
 [![Postman](https://img.shields.io/badge/Postman-00FFFF?style=for-the-badge&logo=postman)](https://www.postman.com/)
 [![DataTables](https://img.shields.io/badge/DataTables-2D6EBF?style=for-the-badge&logo=datacamp)](https://datatables.net/)
 

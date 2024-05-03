@@ -1,19 +1,19 @@
-<div id="Top"></div>
-
-![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?logo=github&style=for-the-badge&label=last%20update)<br>
-
-<h1 align="center">Hi there 👋🏼, I'm <code>AVISHEK</code></h1>
-<h3 align="center">Another programmer who codes for a better world 👨🏼‍💻</h3>
-<p align="center">
-<!--   <a href="https://komarev.com/ghpvc" target="_blank"><img src="https://komarev.com/ghpvc/?username=avishekchy45&style=for-the-badge" alt="github" title='Profile Views'></a> -->
-  <a href='https://linktr.ee/avishekchy45' target="_blank"><img src='https://img.shields.io/badge/Connect with Me-yellow?logo=linktree&style=for-the-badge' alt='linktree' title='All Social Links'></a>
-  <!-- [![Linktree](https://img.shields.io/badge/Connect_with_Me-yellow?style=for-the-badge)](https://linktr.ee/avishekchy45) -->
-</p>
-
 <!--
 **avishekchy45/avishekchy45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+
+<div id="Top"></div>
+
+[![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?color=green&logo=github&style=for-the-badge&label=last%20update)](https://github.com/avishekchy45)<br>
+<!-- ![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?color=green&logo=github&style=for-the-badge&label=last%20update)<br> -->
+
+<h1 align="center">Hi there 👋🏼, I'm <code>AVISHEK</code></h1>
+<h3 align="center">Another programmer who codes for a better world 👨🏼‍💻</h3>
+<p align="center">
+  <a href='https://linktr.ee/avishekchy45' target="_blank"><img src='https://img.shields.io/badge/Connect with Me-yellow?logo=linktree&style=for-the-badge' alt='linktree' title='All Social Links'></a>
+  <!-- [![Linktree](https://img.shields.io/badge/Connect_with_Me-yellow?style=for-the-badge)](https://linktr.ee/avishekchy45) -->
+</p>
 
 # About me
 
@@ -22,9 +22,9 @@ As a computer science student, I always search for an opportunity to make a sign
 I’ve learned how to manage my work in a collaborative environment through my previous academic projects. Even if the tasks I am assigned are complex, I try my best to maintain focus and proceed to the output to reach the goal of the task.
 
 - 🔭 I’m currently working on my personal practice projects 🤪
-- 🌱 I’m currently learning PYTHON 🙄
+- 🌱 I’m currently learning **JavaScript** 🙄
 - 👯 I’m looking to collaborate on any volunteering project 🙂
-- 🤔 I’m looking for help with JS 😑
+- 🤔 I’m looking for help with **Django** 😑
 - 💬 Ask me about anything 😶
 - 📫 How to reach me: [Plane or Bus](mailto:avishekchy45@gmail.com) 😆
 - ⚡ Fun fact: 🥴
@@ -110,12 +110,15 @@ I’ve learned how to manage my work in a collaborative environment through my p
 <p align="center">
   <a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api?username=avishekchy45&show_icons=true&theme=blue-green' alt='GitHub Stats' title='GitHub Stats'></a>
 </p>
+
 <p align="center">
-  <a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=avishekchy45&theme=blue-green&layout=compact' alt='Top Languages' title='Top Languages'></a>
+  <a href='https://github-readme-stats.vercel.app'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=avishekchy45&theme=blue-green&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,Blade' alt='Top Languages' title='Top Languages'></a>
 </p>
+
 <p align="center">
   <a href='https://git.io/streak-stats'><img src='https://github-readme-streak-stats.herokuapp.com?user=avishekchy45&theme=blue-green&mode=weekly' alt='GitHub Streak' title='GitHub Streak'></a>
 </p>
+
 <!--   <a href="https://stardev.io/developers/avishekchy45"><img src="https://stardev.io/developers/avishekchy45/badge/languages/country.svg" alt="Check out avishekchy45&apos;s profile on stardev.io" title='Stardev badge'/></a> -->
 <hr>
 
@@ -129,7 +132,8 @@ I’ve learned how to manage my work in a collaborative environment through my p
 </h1>
 
 <!-- ![Last_Update](https://img.shields.io/badge/Last_Update-12_December_2022-success) -->
-![Profile views](https://gpvc.arturio.dev/avishekchy45)
+<!-- ![Profile Views](https://gpvc.arturio.dev/avishekchy45) -->
+[![Profile_Views](https://komarev.com/ghpvc/?username=avishekchy45&logo=github&style=social&label=%20%20👀%20Profile%20Views)](https://github.com/avishekchy45)
 [![Twitter](https://img.shields.io/twitter/follow/avishekchy45?logo=twitter&style=social)](https://twitter.com/avishekchy45)
 [![Youtube](https://img.shields.io/youtube/channel/views/UCiRj8ZpmU8PBiFbh2qClBnw?logo=youtube&style=social&label=Subscribe%20@avishekchowdhury)](https://youtube.com/@avishekchowdhury)
 

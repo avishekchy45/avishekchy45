@@ -50,7 +50,7 @@ I’ve learned how to manage my work in a collaborative environment through my p
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)](https://jquery.com/)
 [![Animate_CSS](https://img.shields.io/badge/Animate.CSS-4672FE?style=for-the-badge&logo=css3)](https://animate.style/)
 [![Postman](https://img.shields.io/badge/Postman-00FFFF?style=for-the-badge&logo=postman)](https://www.postman.com/)
-[![DataTables](https://img.shields.io/badge/DataTables-2D6EBF?style=for-the-badge&logo=datacamp)](https://datatables.net/)
+[![DataTables](https://img.shields.io/badge/DataTables-2D6EBF?style=for-the-badge&logo=datatables)](https://datatables.net/)
 
 ## Database Development
 
@@ -64,20 +64,21 @@ I’ve learned how to manage my work in a collaborative environment through my p
 
 
 
-## AI / ML
+## AI / ML / Data Science
 
 [![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
 [![pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4A66FF?style=for-the-badge&logo=opencv)](https://opencv.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-B6D3D1?style=for-the-badge&logo=scikitlearn)](https://scikit-learn.org/)
 [![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)](https://keras.io/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-3A485E?style=for-the-badge&logo=tensorflow)]()
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-65BAEA?style=for-the-badge&logo=Plotly)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=opensea)](https://seaborn.pydata.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-3A485E?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-65BAEA?style=for-the-badge&logo=matplotlib)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=seaborn)](https://seaborn.pydata.org/)
+[![Power_BI](https://img.shields.io/badge/Power_BI-F4A509?style=for-the-badge&logo=powerbi)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
 ## DevOps
 
-[![Amazon_AWS](https://img.shields.io/badge/Amazon_WEB_SERVICES-232F3E?style=for-the-badge&logo=amazon-aws)]()
+[![Amazon_AWS](https://img.shields.io/badge/Amazon_WEB_SERVICES-232F3E?style=for-the-badge&logo=amazonwebservices)]()
 [![Netlify](https://img.shields.io/badge/Netlify-0A2022?style=for-the-badge&logo=netlify)]()
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku)]()
 
@@ -86,23 +87,24 @@ I’ve learned how to manage my work in a collaborative environment through my p
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/)
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)](https://www.linux.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
-[![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS)](https://www.centos.org/)
+[![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=centos)](https://www.centos.org/)
 [![Kali_Linux](https://img.shields.io/badge/Kali_Linux-27394F?style=for-the-badge&logo=kali-linux)](https://www.kali.org/)
 
 ## IDE / Editors
 
-[![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-203367?style=for-the-badge&logo=visual%20studio%20code)](https://code.visualstudio.com/)
+[![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-203367?style=for-the-badge&logo=vscode)](https://code.visualstudio.com/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-1F2023.svg?style=for-the-badge&logo=notepad%2B%2B)](https://notepad-plus-plus.org/)
 [![Colab](https://img.shields.io/badge/Colab-525252?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/)
 [![Apache_Netbeans](https://img.shields.io/badge/apache%20netbeans-9D073B?style=for-the-badge&logo=apache%20netbeans%20IDE)](https://netbeans.apache.org/)
 
 ## Other Tools & Technologies
 
-<!-- [![GIT](https://img.shields.io/badge/Git-202124?style=for-the-badge&logo=git)](https://git-scm.com/) -->
-[![MATLAB](https://img.shields.io/badge/MATLAB-2F74A8?style=for-the-badge&logo=wolframmathematica)](https://www.mathworks.com/)
-[![Arduino](https://img.shields.io/badge/Arduino-E9665F?style=for-the-badge&logo=Arduino)](https://www.arduino.cc/)
-[![Canva](https://img.shields.io/badge/Canva-7325E1.svg?&style=for-the-badge&logo=Canva)]()
-[![Overleaf](https://img.shields.io/badge/Overleaf-74736A?style=for-the-badge&logo=Overleaf)](https://www.overleaf.com/)
+[![GIT](https://img.shields.io/badge/Git-202124?style=for-the-badge&logo=git)](https://git-scm.com/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-2F74A8?style=for-the-badge&logo=matlab)](https://www.mathworks.com/)
+[![Arduino](https://img.shields.io/badge/Arduino-E9665F?style=for-the-badge&logo=arduino)](https://www.arduino.cc/)
+[![Canva](https://img.shields.io/badge/Canva-7325E1.svg?&style=for-the-badge&logo=canva)]()
+[![Overleaf](https://img.shields.io/badge/Overleaf-74736A?style=for-the-badge&logo=overleaf)](https://www.overleaf.com/)
+[![Markdown](https://img.shields.io/badge/Markdown-13A4E0?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/)
 <!-- [![Material_UI](https://img.shields.io/badge/Material_UI-4C2E9E?style=for-the-badge&logo=mui)]() -->
 <!-- [![Name]()]() -->
 <br>

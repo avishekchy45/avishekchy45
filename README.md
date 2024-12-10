@@ -5,7 +5,8 @@ Here are some ideas to get you started:
 
 <div id="Top"></div>
 
-[![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?color=green&logo=github&style=for-the-badge&label=last%20update)](https://github.com/avishekchy45)<br>
+[![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?color=green&logo=github&style=for-the-badge&label=last%20update)](https://github.com/avishekchy45)
+[![Wakatime](https://wakatime.com/badge/user/4ec2beea-2b88-4578-a78a-334e582cb3bb.svg?style=for-the-badge&label=Wakatime)](https://wakatime.com/@4ec2beea-2b88-4578-a78a-334e582cb3bb)
 <!-- ![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?color=green&logo=github&style=for-the-badge&label=last%20update)<br> -->
 
 <h1 align="center">Hi there 👋🏼, I'm <code>AVISHEK</code></h1>
@@ -22,12 +23,12 @@ As a computer science student, I always search for an opportunity to make a sign
 I’ve learned how to manage my work in a collaborative environment through my previous academic projects. Even if the tasks I am assigned are complex, I try my best to maintain focus and proceed to the output to reach the goal of the task.
 
 - 🔭 I’m currently working on my personal practice projects 🤪
-- 🌱 I’m currently learning **JavaScript** 🙄
 - 👯 I’m looking to collaborate on any volunteering project 🙂
-- 🤔 I’m looking for help with **Django** 😑
 - 💬 Ask me about anything 😶
 - 📫 How to reach me: [Plane or Bus](mailto:avishekchy45@gmail.com) 😆
 - ⚡ Fun fact: 🥴
+<!-- 🌱 I’m currently learning **JavaScript** 🙄 -->
+<!-- 🤔 I’m looking for help with **Django** 😑 -->
 
 ## Programming Languages
 
@@ -120,6 +121,13 @@ I’ve learned how to manage my work in a collaborative environment through my p
 <p align="center">
   <a href='https://git.io/streak-stats'><img src='https://github-readme-streak-stats.herokuapp.com?user=avishekchy45&theme=blue-green&mode=weekly' alt='GitHub Streak' title='GitHub Streak'></a>
 </p>
+
+<!--   
+<p align="center">
+  <a href='https://wakatime.com/@avishekchy45'><img src='https://wakatime.com/share/@avishekchy45/cdec99f6-a249-4fb2-8c7f-24584163c555.svg' alt='Wakatime Activity' title='Wakatime Activity'></a>
+  <figure><embed src="https://wakatime.com/share/@avishekchy45/cdec99f6-a249-4fb2-8c7f-24584163c555.svg"></embed></figure>
+</p>
+-->
 
 <!--   <a href="https://stardev.io/developers/avishekchy45"><img src="https://stardev.io/developers/avishekchy45/badge/languages/country.svg" alt="Check out avishekchy45&apos;s profile on stardev.io" title='Stardev badge'/></a> -->
 <hr>

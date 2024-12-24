@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 [![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?color=green&logo=github&style=for-the-badge&label=last%20update)](https://github.com/avishekchy45)
 [![Wakatime](https://wakatime.com/badge/user/4ec2beea-2b88-4578-a78a-334e582cb3bb.svg?style=for-the-badge&label=Wakatime)](https://wakatime.com/@4ec2beea-2b88-4578-a78a-334e582cb3bb)
-<!-- ![Last_Update](https://img.shields.io/github/last-commit/avishekchy45/avishekchy45?color=green&logo=github&style=for-the-badge&label=last%20update)<br> -->
 
 <h1 align="center">Hi there 👋🏼, I'm <code>AVISHEK</code></h1>
 <h3 align="center">Another programmer who codes for a better world 👨🏼‍💻</h3>
@@ -91,20 +90,22 @@ I’ve learned how to manage my work in a collaborative environment through my p
 [![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=centos)](https://www.centos.org/)
 [![Kali_Linux](https://img.shields.io/badge/Kali_Linux-27394F?style=for-the-badge&logo=kali-linux)](https://www.kali.org/)
 
+
 ## IDE / Editors
 
 [![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-203367?style=for-the-badge&logo=vscode)](https://code.visualstudio.com/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-1F2023.svg?style=for-the-badge&logo=notepad%2B%2B)](https://notepad-plus-plus.org/)
-[![Colab](https://img.shields.io/badge/Colab-525252?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/)
 [![Apache_Netbeans](https://img.shields.io/badge/apache%20netbeans-9D073B?style=for-the-badge&logo=apache%20netbeans%20IDE)](https://netbeans.apache.org/)
+[![Colab](https://img.shields.io/badge/Colab-525252?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/)
 
 ## Other Tools & Technologies
 
 [![GIT](https://img.shields.io/badge/Git-202124?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-2F74A8?style=for-the-badge&logo=matlab)](https://www.mathworks.com/)
 [![Arduino](https://img.shields.io/badge/Arduino-E9665F?style=for-the-badge&logo=arduino)](https://www.arduino.cc/)
-[![Canva](https://img.shields.io/badge/Canva-7325E1.svg?&style=for-the-badge&logo=canva)]()
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)](https://www.latex-project.org/)
 [![Overleaf](https://img.shields.io/badge/Overleaf-74736A?style=for-the-badge&logo=overleaf)](https://www.overleaf.com/)
+[![Canva](https://img.shields.io/badge/Canva-7325E1.svg?&style=for-the-badge&logo=canva)]()
 [![Markdown](https://img.shields.io/badge/Markdown-13A4E0?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/)
 <!-- [![Material_UI](https://img.shields.io/badge/Material_UI-4C2E9E?style=for-the-badge&logo=mui)]() -->
 <!-- [![Name]()]() -->
@@ -144,6 +145,7 @@ I’ve learned how to manage my work in a collaborative environment through my p
 <!-- ![Last_Update](https://img.shields.io/badge/Last_Update-12_December_2022-success) -->
 <!-- ![Profile Views](https://gpvc.arturio.dev/avishekchy45) -->
 [![Profile_Views](https://komarev.com/ghpvc/?username=avishekchy45&logo=github&style=social&label=%20%20👀%20Profile%20Views)](https://github.com/avishekchy45)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/avishekchy45/avishekchy45&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Twitter](https://img.shields.io/twitter/follow/avishekchy45?logo=twitter&style=social)](https://twitter.com/avishekchy45)
 [![Youtube](https://img.shields.io/youtube/channel/views/UCiRj8ZpmU8PBiFbh2qClBnw?logo=youtube&style=social&label=Subscribe%20@avishekchowdhury)](https://youtube.com/@avishekchowdhury)
 
